@@ -1,0 +1,84 @@
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\שלב א\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\שלב א\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\שלב א\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\שלב א\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\שלב א\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\שלב א\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\zehor\OneDrive\שולחן העבודה\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zehor\OneDrive\שולחן העבודה\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zehor\OneDrive\שולחן העבודה\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\zehor\OneDrive\שולחן העבודה\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zehor\OneDrive\שולחן העבודה\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zehor\OneDrive\שולחן העבודה\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\פרויקט בתהליך\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\פרויקט בתהליך\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\פרויקט בתהליך\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\פרויקט בתהליך\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\פרויקט בתהליך\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\פרויקט בתהליך\Project01_5711_4225_dotNet5780\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\מזהורית\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\מזהורית\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\מזהורית\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\מזהורית\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\מזהורית\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\מזהורית\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\22לינואר\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\22לינואר\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\22לינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\22לינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\22לינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\22לינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\22לינואר\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\22לינואר\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\22לינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\22לינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\22לינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\22לינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+F:\23בינואר\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+F:\23בינואר\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+F:\23בינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+F:\23בינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+F:\23בינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+F:\23בינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\23בינואר\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\23בינואר\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\23בינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\23בינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\23בינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\23בינואר\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\23\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\23\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\23\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\23\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\23\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\23\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\27\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\27\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\27\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\27\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\27\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+D:\הנדסת תוכנה\שנה ב\מיני פרויקט במערכות חלונות\פרויקט\27\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\28\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\28\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\28\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\28\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\28\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\28\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\1 februar\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\1 februar\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\1 februar\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\1 februar\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\1 februar\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\1 februar\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\7\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\7\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\7\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\7\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\7\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\פרויקט בתהליך\7\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\סופי\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\סופי\Project01_5711_4225_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\סופי\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\סופי\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\סופי\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\zizovirivka\Desktop\לימודים\מיני פרויקט\תרגילים להגשה תשובות\פרויקט\סופי\Project01_5711_4225_dotNet5780\BE\obj\Debug\BE.pdb
