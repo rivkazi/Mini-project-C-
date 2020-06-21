@@ -1,0 +1,53 @@
+﻿<Window x:Class="PLWPF.GetAllGuestRequestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="GetAllGuestRequestWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="images/backGround.jpg"/>
+        </Grid.Background>
+        <Label Content="All Guest Requests:" FontSize="26" HorizontalAlignment="Left" Margin="230,0,0,0" VerticalAlignment="Top" Height="48" Width="368" FontFamily="Kristen ITC" FontWeight="Bold" Foreground="#FF5B5656"/>
+        <DockPanel HorizontalAlignment="Left" Height="340" LastChildFill="False" Margin="10,41,0,0" VerticalAlignment="Top" Width="772">
+            <Expander Header="Filtering Guest Request by:" DockPanel.Dock="Top" Height="59" IsExpanded="False">
+                <StackPanel Height="59">
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Status:" FontWeight="Normal" />
+                        <ComboBox x:Name="comBoxStatus" Width="155" Margin="3" SelectionChanged="comBoxStatus_SelectionChanged"/>
+                        <Label Content="Type:" FontWeight="Normal" Width="37" />
+                        <ComboBox x:Name="ComBoxType" Width="155" Margin="3" SelectionChanged="ComBoxType_SelectionChanged"/>
+                        <Label Content="Area:" FontWeight="Normal" />
+                        <ComboBox x:Name="ComBoxArea" Width="155" Margin="3" SelectionChanged="ComBoxArea_SelectionChanged"/>
+                        <Border  BorderThickness="1"  Width="5" Background="#FF8593C7"/>
+                        <Button x:Name="Clear" Visibility="Hidden" Content="Clear Choises" FontSize="12" Foreground="DarkBlue" Background="White" Margin="5" Width="150" Click="Clear_Click" Height="24"/>
+                    </StackPanel>
+                </StackPanel>
+            </Expander>
+            <DataGrid Name="GuestRequestDataGrid" AutoGenerateColumns="False" IsReadOnly="True" Width="771">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Guest Request key:" Binding="{Binding  MyGuestRequestKey}"/>
+                    <DataGridTextColumn Header="Private Name:"  Binding="{Binding MyPrivateName}"/>
+                    <DataGridTextColumn Header="Last Name:" Binding="{Binding MyFamilyName}"/>
+                    <DataGridTextColumn Header="Mail Adress:" Binding="{Binding MyMailAdress}"/>
+                    <DataGridTextColumn Header="Type:" Binding="{Binding MyType}"/>
+                    <DataGridTextColumn Header="Status:" Binding ="{Binding MyStatus}"/>
+                    <DataGridTextColumn Header="Area:" Binding="{Binding MyArea}"/>
+                    <DataGridTextColumn Header="Entry Date:" Binding="{Binding MyEntryDate, StringFormat='dd/MM/yyyy'}"/>
+                    <DataGridTextColumn Header="Release Date:" Binding="{Binding MyReleaseDate, StringFormat='dd/MM/yyyy'}"/>
+                    <DataGridTextColumn Header="Adults:" Binding="{Binding MyAdults}"/>
+                    <DataGridTextColumn Header="Children:" Binding="{Binding MyChildren}"/>
+                    <DataGridTemplateColumn>
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button x:Name="allDetails" Content="show all details"  Click="details_Click" Margin="3" Width="160" Foreground="White" Background="#FF767481"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+    </Grid>
+</Window>

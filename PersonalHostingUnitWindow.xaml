@@ -1,0 +1,35 @@
+﻿<Window x:Class="PLWPF.PersonalHostingUnitWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="PersonalHostingUnitWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="19" />
+            <Setter Property="Width" Value="245"/>
+            <Setter Property="Height" Value="52"/>
+            <Setter Property="FontWeight" Value="Light"/>
+            <Setter Property="FontFamily" Value="Franklin Gothic Heavy"/>
+            <Setter Property="Foreground" Value="#FFAA4231"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FFC1B9B9"/>
+            <Setter Property="BorderThickness" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="images/backGround.jpg"/>
+        </Grid.Background>
+        <TextBlock x:Name="txtHostingUnit" Text="Personal Hosting Unit:" FontSize="38" HorizontalAlignment="Left" Margin="113,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="550" FontFamily="Kristen ITC" TextAlignment="Center" FontWeight="Bold" Foreground="#FF5B5656"/>
+        <Button x:Name="btnDelete" Content="DELETE" HorizontalAlignment="Left" Margin="125,320,0,0" VerticalAlignment="Top" Width="169" Height="60" Click="btnDelete_Click"/>
+        <Button x:Name="btnUpdate" Content="UPDATE" HorizontalAlignment="Left" Margin="333,320,0,0" VerticalAlignment="Top" Width="169" Height="60" Click="btnUpdate_Click"/>
+        <Button x:Name="btnOrder" Content="ORDER" HorizontalAlignment="Left" Margin="542,320,0,0" VerticalAlignment="Top" Width="169" Height="60" Click="btnOrder_Click"/>
+        <TextBlock x:Name="txtSelect" Text="Please Select Your Choice:" HorizontalAlignment="Left" Margin="10,272,0,0" TextWrapping="Wrap" FontSize="18" VerticalAlignment="Top" Width="241" Height="28" FontWeight="Bold" Foreground="#FF918585"/>
+        <Button Name="btnBack" Content="BACK" HorizontalAlignment="Left" Margin="10,376,0,0" VerticalAlignment="Top" Width="74" Height="33" Click="btnBack_Click"/>
+        <Button Name="btnLogOut" Content="LOG OUT" HorizontalAlignment="Left" Margin="302,124,0,0" VerticalAlignment="Top" Width="212" Click="btnLogOut_Click"/>
+        <Button Content="MORE OPTIONS:" HorizontalAlignment="Left" Height="52" Margin="302,205,0,0" VerticalAlignment="Top" Width="212" Click="btnMore_Click"/>
+    </Grid>
+</Window>
