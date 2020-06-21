@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <KeyGuestRequest>10000018</KeyGuestRequest>
+  <KeyHostingUnit>10000014</KeyHostingUnit>
+  <KeyOrder>10000007</KeyOrder>
+  <ManagerPassword>1111</ManagerPassword>
+  <HostPassword>1234</HostPassword>
+  <Fee>10</Fee>
+  <DaysForExpire>30</DaysForExpire>
+</Configuration>
